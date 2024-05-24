@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "image": "../../../../src/assets/Images/doctor-1.jpg",
+      "category": "Neurologist",
+      "Veterinary": false,
+      "rating": 4.74,
+      "degrees": [
+        "M.D.",
+        "Ph.D."
+      ],
+      "qualifications": [
+        "Board Certified in Internal Medicine",
+        "Specialization in Cardiology"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "image": "../../../../src/assets/Images/doctor-2.jpg",
+      "category": "Cat doctor",
+      "rating": 4.9,
+      "Veterinary": true,
+      "degrees": [
+        "B.S. in Mechanical Engineering",
+        "M.S. in Aerospace Engineering"
+      ],
+      "qualifications": [
+        "Professional Engineer (P.E.) License",
+        "Certified Project Manager (CPM)"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "image": "../../../../src/assets/Images/doctor-3.jpg",
+      "category": "Dog doctor",
+      "rating": 4.2,
+      "Veterinary": true,
+      "degrees": [
+        "J.D."
+      ],
+      "qualifications": [
+        "Admitted to the State Bar",
+        "Specialization in Corporate Law"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Michael Johnson",
+      "image": "../../../../src/assets/Images/doctor-4.jpg",
+      "category": "Dermatologist",
+      "rating": 4.62,
+      "Veterinary": false,
+      "degrees": [
+        "J.D."
+      ],
+      "qualifications": [
+        "Admitted to the State Bar",
+        "Specialization in Corporate Law"
+      ]
+    }
+   ]
